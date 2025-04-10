@@ -1,0 +1,14 @@
+D:\TImelySkills\Projects\Practice\MyList\bin\Debug\net8.0\MyList.exe
+D:\TImelySkills\Projects\Practice\MyList\bin\Debug\net8.0\MyList.deps.json
+D:\TImelySkills\Projects\Practice\MyList\bin\Debug\net8.0\MyList.runtimeconfig.json
+D:\TImelySkills\Projects\Practice\MyList\bin\Debug\net8.0\MyList.dll
+D:\TImelySkills\Projects\Practice\MyList\bin\Debug\net8.0\MyList.pdb
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.AssemblyInfoInputs.cache
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.AssemblyInfo.cs
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.csproj.CoreCompileInputs.cache
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.dll
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\refint\MyList.dll
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.pdb
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\MyList.genruntimeconfig.cache
+D:\TImelySkills\Projects\Practice\MyList\obj\Debug\net8.0\ref\MyList.dll

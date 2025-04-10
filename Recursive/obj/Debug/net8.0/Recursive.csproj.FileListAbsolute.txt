@@ -1,0 +1,14 @@
+D:\TImelySkills\Projects\Practice\Recursive\bin\Debug\net8.0\Recursive.exe
+D:\TImelySkills\Projects\Practice\Recursive\bin\Debug\net8.0\Recursive.deps.json
+D:\TImelySkills\Projects\Practice\Recursive\bin\Debug\net8.0\Recursive.runtimeconfig.json
+D:\TImelySkills\Projects\Practice\Recursive\bin\Debug\net8.0\Recursive.dll
+D:\TImelySkills\Projects\Practice\Recursive\bin\Debug\net8.0\Recursive.pdb
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.AssemblyInfoInputs.cache
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.AssemblyInfo.cs
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.csproj.CoreCompileInputs.cache
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.dll
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\refint\Recursive.dll
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.pdb
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\Recursive.genruntimeconfig.cache
+D:\TImelySkills\Projects\Practice\Recursive\obj\Debug\net8.0\ref\Recursive.dll

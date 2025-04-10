@@ -1,0 +1,14 @@
+D:\TImelySkills\Projects\Practice\abstract interface\bin\Debug\net8.0\abstract interface.exe
+D:\TImelySkills\Projects\Practice\abstract interface\bin\Debug\net8.0\abstract interface.deps.json
+D:\TImelySkills\Projects\Practice\abstract interface\bin\Debug\net8.0\abstract interface.runtimeconfig.json
+D:\TImelySkills\Projects\Practice\abstract interface\bin\Debug\net8.0\abstract interface.dll
+D:\TImelySkills\Projects\Practice\abstract interface\bin\Debug\net8.0\abstract interface.pdb
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.AssemblyInfoInputs.cache
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.AssemblyInfo.cs
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.csproj.CoreCompileInputs.cache
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.dll
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\refint\abstract interface.dll
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.pdb
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\abstract interface.genruntimeconfig.cache
+D:\TImelySkills\Projects\Practice\abstract interface\obj\Debug\net8.0\ref\abstract interface.dll

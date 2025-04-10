@@ -1,0 +1,14 @@
+D:\TImelySkills\Projects\Practice\TasksRef\bin\Debug\net8.0\TasksRef.exe
+D:\TImelySkills\Projects\Practice\TasksRef\bin\Debug\net8.0\TasksRef.deps.json
+D:\TImelySkills\Projects\Practice\TasksRef\bin\Debug\net8.0\TasksRef.runtimeconfig.json
+D:\TImelySkills\Projects\Practice\TasksRef\bin\Debug\net8.0\TasksRef.dll
+D:\TImelySkills\Projects\Practice\TasksRef\bin\Debug\net8.0\TasksRef.pdb
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.AssemblyInfoInputs.cache
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.AssemblyInfo.cs
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.csproj.CoreCompileInputs.cache
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.dll
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\refint\TasksRef.dll
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.pdb
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\TasksRef.genruntimeconfig.cache
+D:\TImelySkills\Projects\Practice\TasksRef\obj\Debug\net8.0\ref\TasksRef.dll
